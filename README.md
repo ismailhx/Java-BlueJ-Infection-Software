@@ -1,7 +1,6 @@
 # Java-BlueJ-Infection-Software
 
-The Task
-Imagine that you have been asked to write part of some software that will be used to 
+Here I write part of some software that will be used to 
 manage laboratory tests for infection.
 
 When an InfectionTest object is created, its state is set to 

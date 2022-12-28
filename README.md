@@ -1,4 +1,4 @@
-# Java-BlueJ-Infection-Software
+# Java-BlueJ-Covid-Software
 
 Here I write part of some software that will be used to 
 manage laboratory tests for infection.

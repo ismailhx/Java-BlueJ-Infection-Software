@@ -1,4 +1,4 @@
-import java.util.HashSet;
+ximport java.util.HashSet;
 import java.util.LinkedList;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -11,7 +11,7 @@ import java.util.Iterator;
  * An InfectionResults class that is intended to store a collection of 
  * InfectionTest objects.
  *
- * @author Ismail Ibrahim
+ * @author Ismail Hendryx
  * @version (11/11/2021)
  */
 public class InfectionResults
